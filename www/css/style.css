@@ -1,0 +1,37 @@
+.login{
+  width: 300px;
+ margin: 0 auto;
+} 
+ .body{
+background: url('../img/login.png');
+ background-repeat: no-repeat;        
+    position: relative;        
+    width: 85%;            
+    height: 610px;       
+    margin-left: auto;      
+    margin-right: auto;  
+
+}
+.divmenu{
+	
+ 		position: absolute;
+		/*nos posicionamos en el centro del navegador*/
+		top:50%;
+		left:50%;
+		/*determinamos una anchura*/
+		width:400px;
+		/*indicamos que el margen izquierdo, es la mitad de la anchura*/
+		margin-left:-200px;
+		/*determinamos una altura*/
+		height:300px;
+		/*indicamos que el margen superior, es la mitad de la altura*/
+		margin-top:-150px;
+		
+		padding:5px;
+}
+
+.button-positive{
+	width:170px;
+	height:70px;
+	padding: 15px 30px;
+}
