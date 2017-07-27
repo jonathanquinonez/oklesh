@@ -62,3 +62,15 @@ background: url('../img/login.png');
 	height:30px;
 	padding: 15px 30px;
 }
+
+.button-full{
+	
+	width: 600px;
+height: 40px;
+padding: 5px;
+border­radius: 50px;
+webkit­shape­inside: rectangle(0,0,100%,100%,50px,50px);
+background­color: #fcc;
+font­size: 0.8em;
+text­align: justify;
+}
